@@ -1,0 +1,21 @@
+p.parrafosimpares{
+    color:blue;
+}
+
+#parrafo2{
+    color: aqua;
+}
+
+#parrafo4{
+    color: brown;
+}
+
+p em {
+    background-color: yellow;
+}
+
+p.parrafonuevo{
+    font-style: oblique;
+    font-size:xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
