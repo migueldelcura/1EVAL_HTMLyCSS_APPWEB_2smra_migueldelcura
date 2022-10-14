@@ -2,5 +2,12 @@ ul{
     list-style-type:upper-roman;
 }
 ol{
-    list-style-image: ("img/caritafeliz.png") ;
+    list-style-image:url("img/caritafeliz.png") ;
+}
+
+dt.personalizado{
+    background-color: yellow;
+    border-color: red;
+    border-width: 2px;
+    border-style: solid
 }
