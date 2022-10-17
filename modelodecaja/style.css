@@ -1,0 +1,22 @@
+body{
+    border:1em red solid;
+    background-color: aqua;
+    font-size: 1em;
+}
+
+
+table{
+    border-style:double;
+    border-width: 1rem;
+    background-color: yellow;
+    width: 50%;
+    height: 40%;
+}
+
+td{
+    border: 0.3em blue solid;
+    padding-top: 15%;
+    padding-bottom: 20%;
+    padding-left: 15%;
+    padding-right: 10%;
+}
