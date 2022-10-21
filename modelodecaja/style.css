@@ -1,7 +1,13 @@
+html{
+    border: 5px green solid;
+}
+
+
 body{
     border:1em red solid;
     background-color: aqua;
     font-size: 1em;
+    margin: 20px 0px;;
 }
 
 
@@ -19,4 +25,5 @@ td{
     padding-bottom: 20%;
     padding-left: 15%;
     padding-right: 10%;
+    border-radius: 30px 20px 0px 0px ;
 }
