@@ -1,0 +1,13 @@
+/* Autor: Miguel Ángel del Cura */
+
+header :first-child{
+    color: aqua;
+}
+
+a:link{
+    background-color: yellow;
+}
+
+a:visited{
+    background-color: blue;
+}

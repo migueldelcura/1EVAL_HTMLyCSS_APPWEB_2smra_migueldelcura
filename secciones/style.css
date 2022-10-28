@@ -19,14 +19,18 @@ li.menu {
     list-style-type: none;
     display: inline;
     padding: 3px;
-    margin: 9px;
-    border: 1px blue solid;
+    margin: 5px;
+
 }
 
 div.logo {
+    display: inline;
     width: 30%;
+
 }
 
-div.menu{
-    width: 70%;
+ul{
+    display: inline;
+    width: 20%;
+    padding-left: 30%;
 }
